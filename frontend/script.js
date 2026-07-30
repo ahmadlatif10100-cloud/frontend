@@ -1,5 +1,5 @@
 // Ganti dengan URL Worker Anda setelah deploy
-const API_URL = 'https://your-worker.your-subdomain.workers.dev';
+const API_URL = 'https://backend.ahmadlatif10100.workers.dev';
 
 let currentVideoData = null;
 
